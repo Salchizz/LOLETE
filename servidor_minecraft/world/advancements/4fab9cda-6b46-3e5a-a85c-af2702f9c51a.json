@@ -887,6 +887,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2024-11-27 21:29:23 +0000",
+      "zombie": "2024-11-27 21:29:00 +0000",
+      "spider": "2024-11-27 21:29:20 +0000",
+      "creeper": "2024-11-27 21:36:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2024-11-27 20:33:47 +0000"
@@ -1544,6 +1553,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 20:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-11-27 21:29:00 +0000"
     },
     "done": true
   },
@@ -2323,6 +2338,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-11-27 21:36:09 +0000",
+      "beef": "2024-11-27 21:28:33 +0000",
       "cooked_cod": "2024-11-27 20:44:50 +0000",
       "bread": "2024-11-27 21:17:17 +0000",
       "carrot": "2024-11-27 20:46:06 +0000"

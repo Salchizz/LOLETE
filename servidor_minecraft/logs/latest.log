@@ -1251,3 +1251,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:14:07] [Server thread/INFO] [Waila]: Player EntityPlayerMP['enigmandres'/31253, l='world', x=-161.50, y=66.00, z=253.50] connected. Sending ping
 [21:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: enigmandres has made the advancement [Acquire Hardware]
 [21:16:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: enigmandres has made the advancement [Monster Hunter]
+[21:18:49] [Server thread/INFO] [mca]: Villager death: Lanell. Caused by: Zombie. UUID: 9db3e4de-e8aa-4f22-a908-1991e656bfec
+[21:20:22] [Server thread/INFO] [mca]: Villager death: Joey. Caused by: Zombie. UUID: 64029501-2f5f-401d-af05-67c61959b8fd
+[21:21:39] [Server thread/INFO] [mca]: Villager death: Rodney. Caused by: Salchipoio. UUID: 860322b8-b7ed-4bb5-80a2-823d3a848501
+[21:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Alline (Héroe)
+[21:22:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to enigmandres]

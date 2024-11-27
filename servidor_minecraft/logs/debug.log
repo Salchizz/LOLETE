@@ -4335,3 +4335,66 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 
 [20:47:24] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 175 times.
 
+[20:47:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:14] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 180 times.
+
+[20:48:14] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 180 times.
+
+[20:48:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:04] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 185 times.
+
+[20:49:04] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 185 times.
+
+[20:49:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:54] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 190 times.
+
+[20:49:54] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 190 times.
+
+[20:50:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:50:44] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 195 times.
+
+[20:50:44] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 195 times.
+
+[20:51:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Spider
+[20:51:34] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 200 times.
+
+[20:51:34] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 200 times.
+
+[20:51:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:52:24] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 205 times.
+
+[20:52:24] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 205 times.
+
+[20:52:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:53:14] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 210 times.
+
+[20:53:14] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 210 times.
+
+[20:53:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:04] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 215 times.
+
+[20:54:04] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 215 times.
+
+[20:54:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:54] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 220 times.
+
+[20:54:54] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 220 times.
+
+[20:54:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:55:44] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 225 times.
+
+[20:55:44] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 225 times.
+
+[20:55:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:34] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 230 times.
+
+[20:56:34] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 230 times.
+
+[20:57:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:24] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 235 times.
+
+[20:57:24] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 235 times.
+

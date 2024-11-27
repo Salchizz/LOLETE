@@ -1232,3 +1232,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [20:44:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [20:44:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-9, 25] in dimension 0 (overworld) while populating chunk [-11, 32], causing cascading worldgen lag.
 [20:44:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Spider

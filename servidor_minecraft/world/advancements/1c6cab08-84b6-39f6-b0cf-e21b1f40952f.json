@@ -635,6 +635,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-11-27 22:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_the_recipe": "2024-11-27 21:29:52 +0000"
@@ -656,6 +662,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_the_recipe": "2024-11-27 21:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-11-27 21:59:29 +0000"
     },
     "done": true
   },
@@ -877,9 +889,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2024-11-27 21:55:52 +0000",
       "skeleton": "2024-11-27 21:31:39 +0000",
       "zombie": "2024-11-27 21:32:12 +0000",
-      "spider": "2024-11-27 21:32:14 +0000"
+      "spider": "2024-11-27 21:32:14 +0000",
+      "creeper": "2024-11-27 21:54:30 +0000"
     },
     "done": false
   },
@@ -1593,6 +1607,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "swampland": "2024-11-27 21:53:51 +0000",
       "birch_forest": "2024-11-27 21:30:22 +0000",
       "forest_hills": "2024-11-27 21:30:55 +0000",
       "plains": "2024-11-27 21:29:52 +0000",
@@ -2324,8 +2339,14 @@
     "criteria": {
       "cooked_mutton": "2024-11-27 21:35:57 +0000",
       "cooked_beef": "2024-11-27 21:36:58 +0000",
+      "baked_potato": "2024-11-27 21:56:42 +0000",
+      "apple": "2024-11-27 21:54:10 +0000",
       "spider_eye": "2024-11-27 21:35:07 +0000",
-      "rotten_flesh": "2024-11-27 21:31:20 +0000"
+      "potato": "2024-11-27 21:52:43 +0000",
+      "cookie": "2024-11-27 21:55:28 +0000",
+      "rotten_flesh": "2024-11-27 21:31:20 +0000",
+      "cooked_chicken": "2024-11-27 22:04:47 +0000",
+      "carrot": "2024-11-27 21:50:53 +0000"
     },
     "done": false
   },
@@ -3802,6 +3823,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2024-11-27 21:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-27 22:07:25 +0000"
     },
     "done": true
   },

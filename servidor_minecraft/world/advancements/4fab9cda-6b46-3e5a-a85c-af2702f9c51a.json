@@ -889,7 +889,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-11-27 22:02:10 +0000",
+      "zombie_villager": "2024-11-27 21:57:53 +0000",
       "skeleton": "2024-11-27 21:29:23 +0000",
+      "husk": "2024-11-27 21:58:44 +0000",
+      "cave_spider": "2024-11-27 22:07:11 +0000",
       "zombie": "2024-11-27 21:29:00 +0000",
       "spider": "2024-11-27 21:29:20 +0000",
       "creeper": "2024-11-27 21:36:53 +0000"
@@ -1271,6 +1275,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-11-27 20:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-27 22:04:49 +0000"
     },
     "done": true
   },
@@ -2341,6 +2351,8 @@
       "cooked_mutton": "2024-11-27 21:36:09 +0000",
       "cooked_beef": "2024-11-27 21:38:21 +0000",
       "beef": "2024-11-27 21:28:33 +0000",
+      "apple": "2024-11-27 21:57:23 +0000",
+      "spider_eye": "2024-11-27 21:47:58 +0000",
       "cooked_cod": "2024-11-27 20:44:50 +0000",
       "bread": "2024-11-27 21:17:17 +0000",
       "carrot": "2024-11-27 20:46:06 +0000"
@@ -2548,6 +2560,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-11-27 20:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-27 21:50:21 +0000"
     },
     "done": true
   },
@@ -2938,6 +2956,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-11-27 20:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-27 21:59:20 +0000"
     },
     "done": true
   },
@@ -3568,6 +3592,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2024-11-27 20:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-27 22:03:55 +0000"
     },
     "done": true
   },

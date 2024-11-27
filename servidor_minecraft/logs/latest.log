@@ -1280,3 +1280,65 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:40:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE has made the advancement [Getting an Upgrade]
 [21:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Spider
 [21:41:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio fell out of the world
+[21:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Killed Salchipoio]
+[21:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio fell from a high place
+[21:50:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:50:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio has made the advancement [Stone Age]
+[21:51:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Spider
+[21:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[21:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by CUMSOTE
+[21:51:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:52:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Zombie
+[21:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Spider
+[21:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[21:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was shot by Skeleton
+[21:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Given    [Diamond Boomerang] * 1 to Salchipoio]
+[21:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Given    [Diamond Boomerang] * 1 to Salchipoio]
+[21:57:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Zombie Villager
+[21:57:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[21:57:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Zombie Villager
+[21:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[21:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Zombie
+[21:57:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:59:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio has made the advancement [Getting an Upgrade]
+[21:59:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was shot by Skeleton
+[21:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE has made the advancement [Suit Up]
+[21:59:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was shot by Skeleton
+[21:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:00:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by CUMSOTE
+[22:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:01:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was shot by Skeleton
+[22:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:01:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by CUMSOTE
+[22:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Husk
+[22:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Zombie
+[22:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Zombie
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:03:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Zombie
+[22:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Zombie
+[22:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio has made the advancement [Take Aim]
+[22:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Zombie
+[22:04:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Skeleton
+[22:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:04:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Skeleton
+[22:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio has made the advancement [Not Today, Thank You]
+[22:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Husk
+[22:05:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:06:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was shot by Skeleton
+[22:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Zombie
+[22:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE has made the advancement [Acquire Hardware]

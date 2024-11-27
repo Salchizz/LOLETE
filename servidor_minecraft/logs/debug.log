@@ -4973,3 +4973,92 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 
 [22:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE has made the advancement [Acquire Hardware]
 [22:07:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:14] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 660 times.
+
+[22:08:14] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 660 times.
+
+[22:08:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was shot by Skeleton
+[22:08:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was shot by Skeleton
+[22:09:04] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 665 times.
+
+[22:09:04] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 665 times.
+
+[22:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:09:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:54] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 670 times.
+
+[22:09:54] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 670 times.
+
+[22:09:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:44] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 675 times.
+
+[22:10:44] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 675 times.
+
+[22:10:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:34] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 680 times.
+
+[22:11:34] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 680 times.
+
+[22:12:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:12:24] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 685 times.
+
+[22:12:24] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 685 times.
+
+[22:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Salchipoio
+[22:12:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by CUMSOTE
+[22:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE tried to swim in lava
+[22:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:12:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was slain by Salchipoio
+[22:13:14] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 690 times.
+
+[22:13:14] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 690 times.
+
+[22:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:13:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE burned to death
+[22:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:14:04] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 695 times.
+
+[22:14:04] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 695 times.
+
+[22:14:13] [Server thread/INFO] [mca]: Villager death: Sarai. Caused by: Zombie. UUID: c01ae7cc-0f17-480c-ab6b-896cf2540ec2
+[22:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was shot by Salchipoio using    [Laminated Bow]
+[22:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:14:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by CUMSOTE
+[22:14:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[22:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE was shot by Salchipoio using    [Laminated Bow]
+[22:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:14:54] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 700 times.
+
+[22:14:54] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 700 times.
+
+[22:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE tried to swim in lava
+[22:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CUMSOTE: Teleported CUMSOTE to Salchipoio]
+[22:15:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:44] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 705 times.
+
+[22:15:44] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 705 times.
+
+[22:15:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Salchipoio lost connection: Disconnected
+[22:16:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio left the game
+[22:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE tried to swim in lava
+[22:16:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CUMSOTE lost connection: Disconnected
+[22:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE left the game
+[22:16:34] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 710 times.
+
+[22:16:34] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 710 times.
+
+[22:16:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:24] [Server thread/DEBUG] [FML]: The world 3ab1cdae (world) may have leaked: seen 715 times.
+
+[22:17:24] [Server thread/DEBUG] [FML]: The world 306b51ea (world) may have leaked: seen 715 times.
+
+[22:17:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

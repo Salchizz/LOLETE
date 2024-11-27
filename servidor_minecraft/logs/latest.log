@@ -1274,3 +1274,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:34:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was shot by Skeleton
 [21:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
 [21:36:37] [Server thread/INFO] [mca]: Villager death: Charley. Caused by: Zombie. UUID: 90cc285a-a6f8-4476-b9a9-abfc9c376b04
+[21:39:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio fell from a high place
+[21:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE has made the advancement [Stone Age]
+[21:40:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]
+[21:40:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUMSOTE has made the advancement [Getting an Upgrade]
+[21:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Salchipoio was slain by Spider
+[21:41:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salchipoio: Teleported Salchipoio to CUMSOTE]

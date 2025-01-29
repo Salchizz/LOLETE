@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.174.200.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1738132362197
+money: '0'
+last-account-name: coca_cola_humana
+lastlocation:
+  world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
+  world-name: world
+  x: -404.558524376985
+  y: 65.0
+  z: -400.7507555035455
+  yaw: 145.04995727539062
+  pitch: 38.40003967285156

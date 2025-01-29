@@ -20,3 +20,11 @@ timestamps:
   login: 1738131361036
 money: '0'
 last-account-name: Salchipoio
+lastlocation:
+  world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
+  world-name: world
+  x: -219.39090115107018
+  y: 104.79673560066871
+  z: -905.5892806570363
+  yaw: -58.083465576171875
+  pitch: 43.441917419433594

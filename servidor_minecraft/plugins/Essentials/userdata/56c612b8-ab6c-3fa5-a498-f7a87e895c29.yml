@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.147.254.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738131898092
+  login: 1738131870501
+money: '0'
+last-account-name: enigmandres
+lastlocation:
+  world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
+  world-name: world
+  x: -383.69999998807907
+  y: 63.0
+  z: -393.8280884170626
+  yaw: 47.9969482421875
+  pitch: 14.249998092651367
+logoutlocation:
+  world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
+  world-name: world
+  x: -264.9585008525016
+  y: 66.0
+  z: -662.5270417071767
+  yaw: 38.70823669433594
+  pitch: 16.768653869628906

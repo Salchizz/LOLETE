@@ -18,6 +18,8 @@ timestamps:
   onlinejail: 0
   logout: 0
   login: 1738132362197
+  kits:
+    tools: 1738134331000
 money: '0'
 last-account-name: coca_cola_humana
 lastlocation:

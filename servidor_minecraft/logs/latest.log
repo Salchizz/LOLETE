@@ -1712,3 +1712,6 @@
 [07:02:47] [Server thread/INFO]: Salchipoio lost connection: Disconnected
 [07:02:47] [Server thread/INFO]: Salchipoio left the game
 [07:02:51] [Server thread/INFO]: Villager EntityVillager['Villager'/19389, uuid='9bb8ddd7-cc73-442c-8b69-4f6a403e6bdb', l='ServerLevel[world]', x=-117.36, y=56.00, z=1855.96, cpos=[-8, 115], tl=20312, v=true] died, message: 'Villager was slain by Zombie'
+[07:05:30] [Server thread/INFO]: coca_cola_humana issued server command: /kit tools
+[07:11:16] [Async Chat Thread - #4/INFO]: [Not Secure] <coca_cola_humana> 210 1815
+[07:13:36] [Server thread/INFO]: coca_cola_humana has made the advancement [Monster Hunter]

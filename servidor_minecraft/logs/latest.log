@@ -1691,3 +1691,24 @@
 [06:52:45] [Server thread/INFO]: enigmandres lost connection: Disconnected
 [06:52:45] [Server thread/INFO]: enigmandres left the game
 [06:53:13] [Server thread/INFO]: coca_cola_humana drowned
+[06:53:35] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[06:54:34] [Server thread/INFO]: Salchipoio fell from a high place
+[06:54:38] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[06:54:47] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[06:55:33] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio door
+[06:55:37] [Server thread/INFO]: Salchipoio drowned
+[06:55:56] [Server thread/INFO]: Salchipoio issued server command: /invsee coca_cola_humana
+[06:56:33] [Server thread/INFO]: coca_cola_humana discovered the floor was lava
+[06:56:34] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio crafting_table
+[06:56:44] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[06:57:03] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[06:58:13] [Server thread/INFO]: coca_cola_humana issued server command: /back
+[06:58:24] [Server thread/INFO]: coca_cola_humana issued server command: /back
+[06:58:32] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[07:00:04] [Server thread/INFO]: Salchipoio discovered the floor was lava
+[07:00:07] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[07:01:39] [Server thread/INFO]: Salchipoio drowned
+[07:01:43] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[07:02:47] [Server thread/INFO]: Salchipoio lost connection: Disconnected
+[07:02:47] [Server thread/INFO]: Salchipoio left the game
+[07:02:51] [Server thread/INFO]: Villager EntityVillager['Villager'/19389, uuid='9bb8ddd7-cc73-442c-8b69-4f6a403e6bdb', l='ServerLevel[world]', x=-117.36, y=56.00, z=1855.96, cpos=[-8, 115], tl=20312, v=true] died, message: 'Villager was slain by Zombie'

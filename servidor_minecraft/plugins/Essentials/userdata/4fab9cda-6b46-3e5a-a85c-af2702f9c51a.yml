@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1738132864905
+  lastteleport: 1738133427047
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1738131361036
+  logout: 1738133350040
+  login: 1738133353168
 money: '0'
 last-account-name: Salchipoio
 lastlocation:
   world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
   world-name: world
-  x: -435.3470592829631
-  y: 69.0
-  z: -408.81369098177095
-  yaw: 134.39999389648438
-  pitch: -3.1500000953674316
+  x: -428.05233321607244
+  y: 66.0
+  z: -392.46183670915485
+  yaw: -17.99998664855957
+  pitch: 41.24999237060547
+logoutlocation:
+  world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
+  world-name: world
+  x: -158.2453632470884
+  y: 75.0
+  z: 1838.6149002063703
+  yaw: -86.51400756835938
+  pitch: 57.44983673095703

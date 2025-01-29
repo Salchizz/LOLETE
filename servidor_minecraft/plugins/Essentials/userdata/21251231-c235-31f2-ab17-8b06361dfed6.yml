@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1738132999260
+  lastteleport: 1738133092893
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1738133102844
   login: 1738131442745
 money: '0'
 last-account-name: esteban0106
 lastlocation:
   world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
   world-name: world
-  x: -422.5
-  y: 66.0
-  z: -399.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -232.75068558239076
+  y: 62.52326431274414
+  z: 1152.0843224802768
+  yaw: -8.635612487792969
+  pitch: 5.2433319091796875
+logoutlocation:
+  world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
+  world-name: world
+  x: -130.15371071083115
+  y: 61.03172501265878
+  z: 1340.8697089084465
+  yaw: -20.76598358154297
+  pitch: -1.3806952238082886

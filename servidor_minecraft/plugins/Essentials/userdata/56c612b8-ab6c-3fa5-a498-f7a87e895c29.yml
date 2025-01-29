@@ -11,28 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1738133548926
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738131898092
+  logout: 1738133565591
   login: 1738132625897
 money: '0'
 last-account-name: enigmandres
 lastlocation:
   world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
   world-name: world
-  x: -301.9193084873682
-  y: 62.50853534409183
-  z: 718.114548184199
-  yaw: -30.480695724487305
-  pitch: 28.64982795715332
+  x: -189.5
+  y: 66.9375
+  z: 1829.5
+  yaw: 94.805419921875
+  pitch: -1.199913501739502
 logoutlocation:
   world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
   world-name: world
-  x: -264.9585008525016
-  y: 66.0
-  z: -662.5270417071767
-  yaw: 38.70823669433594
-  pitch: 16.768653869628906
+  x: -155.4969129744318
+  y: 53.0
+  z: 1806.6588694926575
+  yaw: -44.11418914794922
+  pitch: 60.510196685791016
+nickname: tuprimito

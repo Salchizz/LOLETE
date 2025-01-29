@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1738132864905
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,8 +23,8 @@ last-account-name: Salchipoio
 lastlocation:
   world: ee2b81fb-09be-4ee8-abbc-86e566e0e225
   world-name: world
-  x: -219.39090115107018
-  y: 104.79673560066871
-  z: -905.5892806570363
-  yaw: -58.083465576171875
-  pitch: 43.441917419433594
+  x: -435.3470592829631
+  y: 69.0
+  z: -408.81369098177095
+  yaw: 134.39999389648438
+  pitch: -3.1500000953674316
